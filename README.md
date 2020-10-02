@@ -8,7 +8,7 @@ This is the theme of eYantra Robotics Competition 2018-19 held at IIT Bombay. wh
 
 ## Videos:-
 
-Final Run video:-[1.](https://youtu.be/0KMlnSG1Lgg)     [2.](https://photos.app.goo.gl/Hz1VziTUBQRBdUXy69)
+Final Run video:-[1.](https://youtu.be/0KMlnSG1Lgg)     [2.](https://photos.app.goo.gl/Hz1VziTUBQRBdUXy6)
 
 [Theme introduction](https://youtu.be/yweBms_mhz8)
 
