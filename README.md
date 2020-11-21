@@ -1,13 +1,13 @@
 # Nutty Squirrel
   This is the theme of eYantra Robotics Competition 2018-19 held at IIT Bombay. which explored the skills in practical implementation of Embedded systems and also Path Planning Algorithm, shortest path Algorithm, Programing the Microcontroller, Color Detection, Obstacle Detection, Lifting mechanism, Sensors etc. I participated in this competition and I worked as a team leader of our team. We were the Finalists of this event. also we got a special consolation price
-
+<!--
 ## Team Members:-
 ### 1) [Sagar S Narkhede](https://www.linkedin.com/in/sagar-narkhede-5bb944195/)(Team Leader)
 ### 2) [Omkar Sutar](https://www.linkedin.com/in/omkarsutar8991/)
 ### 3) [Ashlesha Borade](https://www.linkedin.com/in/ashlesha-borade-719434162/)
 ### 4) [Pooja Katkar](https://www.linkedin.com/in/pooja-katkar-a85b6b137/)
 
-
+-->
 
 
 ## Videos:-
